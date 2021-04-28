@@ -11,8 +11,8 @@ Idea for hardware port that can transfer storage, charge stuff, use for I/O devi
 ---------------
 ```
 ### Key:
-* + = 3v
-* - = gnd
+* \+ = 3v
+* \- = gnd
 * A = analog
 * D = digital
 
